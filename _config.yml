@@ -1,0 +1,28 @@
+name: Music for the conneseur
+favicon: null
+layout_spectrum: 0.0590328392572701
+typography_spectrum: 0.4940742142498493
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.053977155359461904
+  lightness: 0.33772426610812545
+  saturation: 0.22338661132380366
+  rhythmicContrast: 0.7965507623739541
+purpose: []
