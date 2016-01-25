@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Perfect Animal marks a quantum musical leap for the North Carolina-bred, New York-based artist.  It boasts her most personally-charged songwriting and her most urgent, impassioned singing to date, along with vivid, adventurous arrangements that show off her fiercely expressive guitar work as well as the talents of her longstanding band: keyboardist/accordionist Liam Robinson and bassist Chris Tordini, both of whom Stevens has worked with since 2005, and drummer/percussionist Jordan Perlson, who joined three years later. '
-datePublished: '2016-01-25T23:51:00.108Z'
+datePublished: '2016-01-25T23:51:00.142Z'
 dateModified: '2016-01-25T23:50:56.681Z'
 title: ''
 author: []
