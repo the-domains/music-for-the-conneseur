@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Music for the conneseur]]></title>
         <description><![CDATA[Music for the conneseur]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/music-for-the-conneseur/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 23:35:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Jan 2016 23:35:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/music-for-the-conneseur/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1edeeba0-987a-4bdc-bbab-346b07d758af.jpg">]]></description>
+            <link>https://thegrid.ai/music-for-the-conneseur/11c26716-a9f1-426c-88e4-cdd030d9f850/index.html</link>
+            <guid isPermaLink="false">11c26716-a9f1-426c-88e4-cdd030d9f850</guid>
+            <pubDate>Mon, 25 Jan 2016 23:35:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f30196b2-77f9-4814-b1da-d95af4254d27.jpg">]]></description>
-            <link>undefinedf14edda4-965f-4f87-966f-e87890b68a29/index.html</link>
+            <link>https://thegrid.ai/music-for-the-conneseur/f14edda4-965f-4f87-966f-e87890b68a29/index.html</link>
             <guid isPermaLink="false">f14edda4-965f-4f87-966f-e87890b68a29</guid>
             <pubDate>Mon, 25 Jan 2016 23:35:20 GMT</pubDate>
         </item>
